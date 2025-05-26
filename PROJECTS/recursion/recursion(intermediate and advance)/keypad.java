@@ -3,7 +3,7 @@ public class keypad {
     public static void main(String[] args) {
 
         //given string
-        String key = "234";
+        String key = "234"; // taken for example 
         printcomb(key, 0, "");
     }
     //function will print all possible combinations of given key's
